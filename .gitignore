@@ -1,2 +1,6 @@
 .ipynb_checkpoints
-data/rt_old.csv
+data/
+chromedriver_linux64/
+gif_files/
+other_nbs/
+daily_graphs/
